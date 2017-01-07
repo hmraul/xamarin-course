@@ -1,0 +1,2 @@
+C:\Users\Raul\Documents\projects\xamarin\xamarin-course\ex0101\ex0101\ex0101.Windows\ex0101.Windows.csproj;neutral
+C:\Users\Raul\Documents\projects\xamarin\xamarin-course\ex0101\ex0101\ex0101\ex0101.csproj;neutral
